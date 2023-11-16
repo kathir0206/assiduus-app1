@@ -1,6 +1,6 @@
 // ThirdContainer.js
 import React from "react";
-import { Paper, Typography, Grid } from "@mui/material";
+import { Paper, Typography} from "@mui/material";
 import "./ThirdContainer.css";
 import BarChart from "./BarChart";
 

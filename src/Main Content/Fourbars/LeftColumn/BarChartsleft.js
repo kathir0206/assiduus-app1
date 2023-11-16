@@ -18,8 +18,8 @@ const SingleLineChart = () => {
     }));
 
     const margin = { top: 20, right: 30, bottom: 30, left: 0 }; 
-    const width = containerWidth - margin.left - margin.right;
-    const height = containerHeight - margin.top - margin.bottom;
+    // const width = containerWidth - margin.left - margin.right;
+    // const height = containerHeight - margin.top - margin.bottom;
 
     const line = d3
       .line()
