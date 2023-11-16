@@ -1,0 +1,23 @@
+.column-container {
+    background-color: white;
+    padding: 10px;
+    color: black;
+  }
+  
+  .section-heading {
+    margin-bottom: 16px;
+    font-size: 1rem;
+  }
+  
+  .top-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .heading-line1 {
+    width: 100%;
+    border-bottom: 2px solid #ccc;
+    margin-top: 10px;
+  }
+  

@@ -1,0 +1,39 @@
+.header-appbar {
+    background-color: white;
+  }
+  
+  .header-left {
+    flex-grow: 1;
+  }
+  
+  .header-title {
+    font-weight: bold;
+    color: black;
+    margin-left: 10px;
+  }
+  
+  .header-center {
+    flex-grow: 1;
+  }
+  
+  .header-search {
+    position: relative;
+    margin-left: 16px;
+  }
+  
+  .search-icon {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 167px;
+    background-color: #F0F0F0;
+    padding-top: 5px;
+    border-radius: 5px;
+  }
+  
+  .header-right {
+    flex-grow:1;
+    display: flex;
+    justify-content: flex-end;
+  }
+  

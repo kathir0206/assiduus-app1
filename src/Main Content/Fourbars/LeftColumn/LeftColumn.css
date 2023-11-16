@@ -1,0 +1,85 @@
+
+.left-column {
+  padding: 16px;
+  position: relative;
+}
+
+.section-heading3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.line3 {
+  border-bottom: 2px solid #ccc;
+  margin: 10px 0 15px; 
+}
+
+.month-input-container   {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+}
+.option-input-container {
+  position: absolute;
+  top: 12px;
+  margin-left: 250px;
+}
+.month-input{
+  width: 100px;
+  padding: 8px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.option-input {
+  width: 100px;
+  padding: 8px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.dropdown-symbol {
+  position: absolute;
+  top: 50%;
+  right: 5px;
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+
+.month-dropdown{
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 1;
+}
+.option-dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 1;
+}
+
+
+.month-option {
+  padding: 8px;
+  cursor: pointer;
+}
+.option {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.month-option:hover{
+  background-color: #f0f0f0;
+}
+.option:hover {
+  background-color: #f0f0f0;
+}
